@@ -2,7 +2,7 @@
  * Author: Katelyn Breitbath
  * Date: 2021/08/26
  *
- * A program to print my name.
+ * A program to print my name and major.
  *
  */
  #include <stdlib.h>
@@ -10,7 +10,8 @@
 
  int main(int argc, char **argv) {
 
-        printf("Katelyn Breitbarth\n");
+        printf("Katelyn Breitbarth!\n");
+        printf("My major is Undeclared.\n");
 
         return 0;
  }
